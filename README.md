@@ -35,11 +35,11 @@ Membangun sebuah model berbasis Algoritma Support Vector Machine yang berfungsi 
 
 ## Dataset
 ### Link
-[Dataset Daging Hewan Ternak](https://www.kaggle.com/datasets/zulfafebriana/dataset-hewan-ternak)
+[Meat Quality Assessment Dataset](https://www.kaggle.com/datasets/crowww/meat-quality-assessment-based-on-deep-learning)
 ### Deskripsi
-Dataset ini berisi dua folder, yaitu 'Testing' dan 'Training'.
-Di dalam kedua folder tersebut terdapat tujuh folder, yang isinya berupa tujuh hewan ternak, yaitu ayam, babi, kambing, kelinci, kerbau, sapi, dan unta.
-Terdapat sebanyak 560 gambar yang digunakan sebagai data latih (training) dan sebanyak 140 gambar yang digunakan sebagai data validasi (testing).  
+Dataset ini berisi 2 kelas, yaitu sampel 'daging merah segar' dan 'daging busuk' yang dikumpulkan dari supermarket di Izmir, Turki untuk proyek 
+kolaborasi universitas-industri di Universitas Ekonomi Izmir, dan karya ini dipublikasikan di ASYU 2019.
+Di dalam kelas daging merah segar dan daging busuk masing-masing terdapat 948 gambar.
 ## Tools
 - Google Colab
 - Python
