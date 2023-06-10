@@ -31,7 +31,7 @@
 ---
 
 ## Tujuan
-Membangun sebuah model berbasis Algoritma Support Vector Machine yang berfungsi untuk mengidentifikasi kualitas dari suatu citra daging hewan ternak.
+Membangun sebuah model berbasis Algoritma Support Vector Machine yang berfungsi untuk mengidentifikasi kualitas dari suatu citra daging.
 
 ## Dataset
 ### Link
