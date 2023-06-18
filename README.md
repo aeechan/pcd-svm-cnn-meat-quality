@@ -31,17 +31,17 @@
 ---
 
 ## Tujuan
-Membangun sebuah model berbasis Algoritma Support Vector Machine yang berfungsi untuk mengidentifikasi kualitas dari suatu citra daging.
+Membangun sebuah model berbasis Algoritma Support Vector Machine (SVM) untuk melakukan klasifikasi daging hewan ternak. Model ini akan mencari garis pemisah (hyperplane) yang terbaik untuk memisahkan setiap kelas dengan cara memaksimalkan margin atau jarak antara hyperplane dan titik-titik terdekat dari setiap kelas. Model ini selanjutnya akan diuji keakuratannya untuk digunakan dalam memprediksi kelas dari citra baru yang belum pernah dilihat sebelumnya.
 
 ## Dataset
 ### Link
-[Meat Quality Assessment Dataset](https://www.kaggle.com/datasets/crowww/meat-quality-assessment-based-on-deep-learning)
+[Hewan Ternak]
+(https://www.kaggle.com/datasets/zulfafebriana/dataset-hewan-ternak)
+
 ### Deskripsi
-Dataset ini berisi 2 kelas, yaitu sampel 'daging merah segar' dan 'daging busuk' yang dikumpulkan dari supermarket di Izmir, Turki untuk proyek 
-kolaborasi universitas-industri di Universitas Ekonomi Izmir, dan karya ini dipublikasikan di ASYU 2019.
-Di dalam kelas daging merah segar dan daging busuk masing-masing terdapat 948 gambar.
+Dataset ini berisi 7 kelas, yaitu sampel daging ayam, daging babi, daging kambing, daging kelinci, daging kerbau, daging sapi dan daging unta.
+Dataset ini terdiri dari 700 citra yang masing masing dibagi menjadi 8:2, yaitu 560 citra training dan 140 citra testing.
+
 ## Tools
-- Google Colab
 - Python
-- Jupyter Notebook
 - VS Code
