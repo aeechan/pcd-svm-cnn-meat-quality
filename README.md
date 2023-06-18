@@ -1,4 +1,4 @@
-# Identifikasi Kualitas Daging Sapi Menggunakan Algoritma Support Vector Machine (SVM)
+# Klasifikasi Daging Hewan Ternak Menggunakan Algoritma Support Vector Machine (SVM)
 ---
 ### Kelompok 6 Paralel 3 Mata Kuliah Pengolahan Citra Digital
 <table>
