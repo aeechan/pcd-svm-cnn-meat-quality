@@ -31,7 +31,7 @@
 ---
 
 ## Tujuan
-Membangun sebuah model berbasis Algoritma Support Vector Machine (SVM) untuk melakukan klasifikasi daging hewan ternak. Model ini akan mencari garis pemisah (hyperplane) yang terbaik untuk memisahkan setiap kelas dengan cara memaksimalkan margin atau jarak antara hyperplane dan titik-titik terdekat dari setiap kelas. Model ini selanjutnya akan diuji keakuratannya untuk digunakan dalam memprediksi kelas dari citra baru yang belum pernah dilihat sebelumnya.
+Membangun sebuah model berbasis Algoritma Support Vector Machine (SVM) untuk melakukan klasifikasi daging hewan ternak. Model ini akan mencari garis pemisah (hyperplane) yang terbaik untuk memisahkan setiap kelas dengan cara memaksimalkan margin atau jarak antara hyperplane dan titik-titik terdekat dari setiap kelas. Selanjutnya akan diuji keakuratannya untuk digunakan dalam memprediksi kelas dari citra baru yang belum pernah dilihat sebelumnya.
 
 ## Dataset
 ### Link
