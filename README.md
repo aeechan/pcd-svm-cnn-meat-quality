@@ -1,4 +1,4 @@
-# Klasifikasi Daging Hewan Ternak Menggunakan Algoritma Support Vector Machine (SVM)
+# Klasifikasi Daging Hewan Ternak Menggunakan Algoritma Convolutional Neural Network (CNN) dan Support Vector Machine (SVM)
 ---
 ### Kelompok 6 Paralel 3 Mata Kuliah Pengolahan Citra Digital
 <table>
@@ -31,7 +31,7 @@
 ---
 
 ## Tujuan
-Membangun sebuah model berbasis Algoritma Support Vector Machine (SVM) untuk melakukan klasifikasi daging hewan ternak. Model ini akan mencari garis pemisah (hyperplane) yang terbaik untuk memisahkan setiap kelas dengan cara memaksimalkan margin atau jarak antara hyperplane dan titik-titik terdekat dari setiap kelas. Selanjutnya akan diuji keakuratannya untuk digunakan dalam memprediksi kelas dari citra baru yang belum pernah dilihat sebelumnya.
+Tujuan penelitian ini adalah membangun model klasifikasi daging hewan ternak berbasis Convolutional Neural Network (CNN) dan Algoritma Support Vector Machine (SVM) yang mampu mengidentifikasi kualitas daging dengan akurasi tinggi. Model ini akan dilatih menggunakan data citra daging hewan ternak yang telah diklasifikasikan ke dalam kategori-kategori kualitas tertentu. Selanjutnya, tujuan penelitian ini adalah menguji performa model yang dibangun dengan menguji keakuratannya dalam memprediksi kualitas daging pada citra-citra baru yang belum pernah dilihat sebelumnya.
 
 ## Dataset
 ### Link
