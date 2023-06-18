@@ -45,3 +45,4 @@ Dataset ini terdiri dari 700 citra yang masing masing dibagi menjadi 8:2, yaitu 
 ## Tools
 - Python
 - VS Code
+- Google Colab
